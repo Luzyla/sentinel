@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <SessionWrapper>
     <html lang="en">
-      <body className={`${inconsolata.className} flex h-screen justify-center`}>{children}</body>
+      <body className={`${inconsolata.className} flex h-screen justify-center bg-second-color text-accent-color`}>{children}</body>
     </html>
     </SessionWrapper>
   );
