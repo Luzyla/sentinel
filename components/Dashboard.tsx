@@ -10,7 +10,9 @@ const Dashboard = () => {
         <>
       {session ? (
         <>
-        <Image src={session?.user?.image as string} alt="User image profile" width={50} height={50} priority={false}></Image>
+        <figure className="rounded-full bg-second-color w-50 h-50">
+          <Image src={session?.user?.image as string} alt="User image profile" width={65} height={65} priority={false} className="rounded-full"></Image>
+        </figure>
           <h1>Welcome back {session?.user?.name}</h1>
           <p>{session?.user?.email}</p>
           {/* <button onClick={() => signOut()}>Sign Out</button> */}
