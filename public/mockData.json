@@ -1,0 +1,504 @@
+{
+    "recomendaciones": [
+      {
+        "id": 1,
+        "categoria": "Seguridad personal",
+        "descripcion": "Utilizar equipo de protección personal (EPP) adecuado para cada tarea"
+      },
+      {
+        "id": 2,
+        "categoria": "Seguridad personal",
+        "descripcion": "Lavar las manos antes de comer y después de usar productos químicos"
+      },
+      {
+        "id": 3,
+        "categoria": "Seguridad personal",
+        "descripcion": "No usar joyas o accesorios que puedan ser un peligro en el trabajo"
+      },
+      {
+        "id": 4,
+        "categoria": "Seguridad en el lugar de trabajo",
+        "descripcion": "Mantener el área de trabajo limpia y organizada"
+      },
+      {
+        "id": 5,
+        "categoria": "Seguridad en el lugar de trabajo",
+        "descripcion": "No dejar herramientas o materiales en el suelo"
+      },
+      {
+        "id": 6,
+        "categoria": "Seguridad en el lugar de trabajo",
+        "descripcion": "Utilizar señales de advertencia para indicar peligros"
+      },
+      {
+        "id": 7,
+        "categoria": "Seguridad en la manipulación de materiales",
+        "descripcion": "Utilizar equipo de levantamiento adecuado para evitar lesiones en la espalda"
+      },
+      {
+        "id": 8,
+        "categoria": "Seguridad en la manipulación de materiales",
+        "descripcion": "No sobrecargar carros o plataformas"
+      },
+      {
+        "id": 9,
+        "categoria": "Seguridad en la manipulación de materiales",
+        "descripcion": "Utilizar guantes para proteger las manos al manipular materiales"
+      },
+      {
+        "id": 10,
+        "categoria": "Seguridad en la manipulación de materiales",
+        "descripcion": "No dejar materiales sueltos en el suelo"
+      },
+      {
+        "id": 11,
+        "categoria": "Seguridad en la manipulación de herramientas",
+        "descripcion": "Utilizar herramientas adecuadas para cada tarea"
+      },
+      {
+        "id": 12,
+        "categoria": "Seguridad en la manipulación de herramientas",
+        "descripcion": "No dejar herramientas eléctricas sin supervisión"
+      },
+      {
+        "id": 13,
+        "categoria": "Seguridad en la manipulación de herramientas",
+        "descripcion": "Utilizar protectores de oídos al utilizar herramientas ruidosas"
+      },
+      {
+        "id": 14,
+        "categoria": "Seguridad en la manipulación de herramientas",
+        "descripcion": "No utilizar herramientas con cables dañados"
+      },
+      {
+        "id": 15,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de protección personal adecuado al manipular productos químicos"
+      },
+      {
+        "id": 16,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Leer las etiquetas de seguridad antes de utilizar un producto químico"
+      },
+      {
+        "id": 17,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No mezclar productos químicos sin autorización"
+      },
+      {
+        "id": 18,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar ventilación adecuada al manipular productos químicos"
+      },
+      {
+        "id": 19,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin supervisión"
+      },
+      {
+        "id": 20,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar guantes y gafas de seguridad al manipular productos químicos"
+      },
+      {
+        "id": 21,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos sin autorización"
+      },
+      {
+        "id": 22,
+        "categoria": "Seguridad en la manipulación de productos quím icos",
+        "descripcion": "Utilizar equipo de emergencia al manipular productos químicos"
+      },
+      {
+        "id": 23,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos cerca de fuentes de calor"
+      },
+      {
+        "id": 24,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar recipientes adecuados para almacenar productos químicos"
+      },
+      {
+        "id": 25,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de alimentos"
+      },
+      {
+        "id": 26,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de protección personal adecuado al limpiar derrames de productos químicos"
+      },
+      {
+        "id": 27,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin etiquetar"
+      },
+      {
+        "id": 28,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar instrucciones de seguridad al manipular productos químicos"
+      },
+      {
+        "id": 29,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de fuentes de ignición"
+      },
+      {
+        "id": 30,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de emergencia al manipular productos químicos"
+      },
+      {
+        "id": 31,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin supervisión"
+      },
+      {
+        "id": 32,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar recipientes adecuados para almacenar productos químicos"
+      },
+      {
+        "id": 33,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de alimentos"
+      },
+      {
+        "id": 34,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de protección personal adecuado al limpiar derrames de productos químicos"
+      },
+      {
+        "id": 35,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin etiquetar"
+      },
+      {
+        "id": 36,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar instrucciones de seguridad al manipular productos químicos"
+      },
+      {
+        "id": 37,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de fuentes de ignición"
+      },
+      {
+        "id": 38,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de emergencia al manipular productos químicos"
+      },
+      {
+        "id": 39,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin supervisión"
+      },
+      {
+        "id": 40,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar recipientes adecuados para almacenar productos químicos"
+      },
+      {
+        "id": 41,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de alimentos"
+      },
+      {
+        "id": 42,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de protección personal adecuado al limpiar derrames de productos químicos"
+      },
+      {
+        "id": 43,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin etiquetar"
+      },
+      {
+        "id": 44,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar instrucciones de seguridad al manipular productos químicos"
+      },
+      {
+        "id": 45,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de fuentes de ignición"
+      },
+      {
+        "id": 46,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de emergencia al manipular productos químicos"
+      },
+      {
+        "id": 47,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin supervisión"
+      },
+      {
+        "id": 48,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar recipientes adecuados para almacenar productos químicos"
+      },
+      {
+        "id": 49,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de alimentos"
+      },
+      {
+        "id": 50,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de protección personal adecuado al limpiar derrames de productos químicos"
+      },
+      {
+        "id": 51,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin etiquetar"
+      },
+      {
+        "id": 52,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar instrucciones de seguridad al manipular productos químicos"
+      },
+      {
+        "id": 53,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de fuentes de ignición"
+      },
+      {
+        "id": 54,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de emergencia al manipular productos químicos"
+      },
+      {
+        "id": 55,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin supervisión"
+      },
+      {
+        "id": 56,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar recipientes adecuados para almacenar productos químicos"
+      },
+      {
+        "id": 57,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de alimentos"
+      },
+      {
+        "id": 58,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de protección personal adecuado al limpiar derrames de productos químicos"
+      },
+      {
+        "id": 59,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin etiquetar"
+      },
+      {
+        "id": 60,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar instrucciones de seguridad al manipular productos químicos"
+      },
+      {
+        "id": 61,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de fuentes de ignición"
+      },
+      {
+        "id": 62,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de emergencia al manipular productos químicos"
+      },
+      {
+        "id": 63,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin supervisión"
+      },
+      {
+        "id": 64,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar recipientes adecuados para almacenar productos químicos"
+      },
+      {
+        "id": 65,
+        "categoria": " Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de alimentos"
+      },
+      {
+        "id": 66,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de protección personal adecuado al limpiar derrames de productos químicos"
+      },
+      {
+        "id": 67,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin etiquetar"
+      },
+      {
+        "id": 68,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar instrucciones de seguridad al manipular productos químicos"
+      },
+      {
+        "id": 69,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de fuentes de ignición"
+      },
+      {
+        "id": 70,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de emergencia al manipular productos químicos"
+      },
+      {
+        "id": 71,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin supervisión"
+      },
+      {
+        "id": 72,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar recipientes adecuados para almacenar productos químicos"
+      },
+      {
+        "id": 73,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de alimentos"
+      },
+      {
+        "id": 74,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de protección personal adecuado al limpiar derrames de productos químicos"
+      },
+      {
+        "id": 75,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin etiquetar"
+      },
+      {
+        "id": 76,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar instrucciones de seguridad al manipular productos químicos"
+      },
+      {
+        "id": 77,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de fuentes de ignición"
+      },
+      {
+        "id": 78,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de emergencia al manipular productos químicos"
+      },
+      {
+        "id": 79,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin supervisión"
+      },
+      {
+        "id": 80,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar recipientes adecuados para almacenar productos químicos"
+      },
+      {
+        "id": 81,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de alimentos"
+      },
+      {
+        "id": 82,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de protección personal adecuado al limpiar derrames de productos químicos"
+      },
+      {
+        "id": 83,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin etiquetar"
+      },
+      {
+        "id": 84,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar instrucciones de seguridad al manipular productos químicos"
+      },
+      {
+        "id": 85,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de fuentes de ignición"
+      },
+      {
+        "id": 86,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion ": "Utilizar equipo de emergencia al manipular productos químicos"
+      },
+      {
+        "id": 87,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin supervisión"
+      },
+      {
+        "id": 88,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar recipientes adecuados para almacenar productos químicos"
+      },
+      {
+        "id": 89,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de alimentos"
+      },
+      {
+        "id": 90,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de protección personal adecuado al limpiar derrames de productos químicos"
+      },
+      {
+        "id": 91,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin etiquetar"
+      },
+      {
+        "id": 92,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar instrucciones de seguridad al manipular productos químicos"
+      },
+      {
+        "id": 93,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de fuentes de ignición"
+      },
+      {
+        "id": 94,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de emergencia al manipular productos químicos"
+      },
+      {
+        "id": 95,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin supervisión"
+      },
+      {
+        "id": 96,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar recipientes adecuados para almacenar productos químicos"
+      },
+      {
+        "id": 97,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No utilizar productos químicos cerca de alimentos"
+      },
+      {
+        "id": 98,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar equipo de protección personal adecuado al limpiar derrames de productos químicos"
+      },
+      {
+        "id": 99,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "No dejar productos químicos sin etiquetar"
+      },
+      {
+        "id": 100,
+        "categoria": "Seguridad en la manipulación de productos químicos",
+        "descripcion": "Utilizar instrucciones de seguridad al manipular productos químicos"
+      }
+    ]
+  }
