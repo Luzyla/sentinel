@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.scroll-thin {
+  scrollbar-width: thin;
+  scrollbar-color: #fbc32b #040404;
+}

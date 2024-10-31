@@ -18,11 +18,11 @@ export default function RootLayout({
 }>) {
   return (
     <SessionWrapper>
-    <html lang="en">
+    <html lang="en" className="scroll-smooth">
       <body className={`${inconsolata.className} bg-second-color text-accent-color`}>
-      <header className='bg-pure-black p-4'>
+      {/* <header className='bg-pure-black p-4'>
         <Navbar />
-      </header>
+      </header> */}
       {children}
       </body>
     </html>
