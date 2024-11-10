@@ -17,7 +17,7 @@ const RadialChartCard = () => {
       {/* BOTTOM */}
       <div className='flex justify-around items-center'>
         {/* LEFT */}
-        <div className='flex flex-col gap-1 items-start justify-center text-second-color'>
+        <div className='flex flex-col gap-1 items-center justify-center text-second-color'>
             <FaBuildingUser />
             <p className='font-bold text-xl'>50</p>
             <p className=''>Onsite</p>
@@ -29,7 +29,7 @@ const RadialChartCard = () => {
             <p className=''>Remote</p>
         </div>
         {/* RIGHT */}
-        <div className='flex flex-col gap-1 items-end justify-center text-light-color'>
+        <div className='flex flex-col gap-1 items-center justify-center text-light-color'>
             <FaUsers />
             <p className='font-bold text-xl'>155</p>
             <p className=''>Total</p>
