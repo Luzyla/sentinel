@@ -24,7 +24,6 @@ const nextConfig = {
       },
     ],
   },
-  /* middleware: ["middleware.ts"], */
 };
 
 export default nextConfig;
