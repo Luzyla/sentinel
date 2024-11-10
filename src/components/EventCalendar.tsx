@@ -6,6 +6,7 @@ import Calendar from 'react-calendar';
 type ValuePiece = Date | null;
 type Value = ValuePiece | [ValuePiece, ValuePiece];
 
+/* mokeup data */
 const events = [
     {
       id: 1,
@@ -33,20 +34,20 @@ const EventCalendar = () => {
 
     return (
       <>
-      <div className='bg-[#fafafa44] text-center p-4 w-full rounded-[20px]'>
+      <div className='bg-[#fafafa44] text-center p-4 w-full rounded-xl'>
         <Calendar onChange={onChange} value={value} />
       </div>
       <div className="flex flex-col gap-4 ">
         {events.map((event) => (
             <div
-            className="bg-[#fafafa44] p-5 rounded-md border-2 border-t-4 odd:border-t-lamaSky even:border-t-lamaPurple"
+            className="bg-[#fafafa44] p-5 rounded-xl border-2 border-t-4 odd:border-t-lamaSky even:border-t-lamaPurple"
             key={event.id}
             >
             <div className="flex items-center justify-between">
-                <h4 className="font-semibold text-gray-600">{event.title}</h4>
-                <span className="text-gray-300 text-xs">{event.time}</span>
+                <h4 className="font-semibold">{event.title}</h4>
+                <span className="text-xs">{event.time}</span>
             </div>
-            <p className="mt-2 text-gray-400 text-sm">{event.description}</p>
+            <p className="mt-2 text-sm">{event.description}</p>
             </div>
         ))}
         </div>
