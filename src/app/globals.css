@@ -6,3 +6,107 @@
   scrollbar-width: thin;
   scrollbar-color: #fbc32b #040404;
 }
+
+.react-calendar {
+  width: 100%;
+  border: none;
+}
+
+.react-calendar__navigation__label__labelText {
+  font-weight: 600;
+}
+
+.react-calendar__tile--active {
+  background-color: #fbc32b;
+  color: #040404;
+}
+
+.rbc-btn-group:first-child {
+  display: none;
+}
+
+.rbc-toolbar-label {
+  text-align: right;
+  padding: 0px 20px;
+}
+
+.rbc-btn-group:last-child {
+  font-size: 13px;
+}
+
+.rbc-btn-group:last-child button {
+  border: none;
+  background-color: #f1f0ff;
+  margin-left: 2px;
+}
+
+.rbc-toolbar button.rbc-active {
+  background-color: #dbdafe;
+  box-shadow: none;
+}
+
+.rbc-time-view {
+  border-color: #eee;
+}
+
+.rbc-time-header {
+  display: none;
+}
+
+.rbc-time-content {
+  border: none;
+}
+
+.rbc-time-gutter.rbc-time-column {
+  font-size: 12px;
+}
+
+.rbc-time-gutter.rbc-time-column .rbc-timeslot-group {
+  padding: 0px 20px;
+}
+
+.rbc-timeslot-group {
+  background-color: #f7fdff;
+}
+
+.rbc-day-slot {
+  font-size: 14px;
+}
+
+.rbc-event {
+  border: none;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  width: 99%;
+}
+
+.rbc-event:nth-child(1) {
+  background-color: #e2f8ff;
+}
+.rbc-event:nth-child(2) {
+  background-color: #fefce8;
+}
+.rbc-event:nth-child(3) {
+  background-color: #f2f1ff;
+}
+.rbc-event:nth-child(4) {
+  background-color: #fdf2fb;
+}
+.rbc-event:nth-child(5) {
+  background-color: #e2f8ff;
+}
+.rbc-event:nth-child(6) {
+  background-color: #fefce8;
+}
+.rbc-event:nth-child(7) {
+  background-color: #f2f1ff;
+}
+.rbc-event:nth-child(8) {
+  background-color: #fdf2fb;
+}
+
+.rbc-event-label {
+  color: gray;
+  margin-bottom: 5px;
+}

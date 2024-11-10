@@ -1,14 +1,12 @@
 import type { Metadata } from "next";
-import SessionWrapper from "../../components/SessionWrapper";
-import Navbar from "../../components/Navbar";
+import SessionWrapper from "../components/SessionWrapper";
 import { Inconsolata } from "next/font/google";
 import "./globals.css";
-
 const inconsolata = Inconsolata({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Sentinel",
-  description: "Sentinel is a social platform created by Luzyla.dev",
+  description: "Sentinel is a platform created by Luzyla.dev",
 };
 
 export default function RootLayout({
@@ -18,12 +16,9 @@ export default function RootLayout({
 }>) {
   return (
     <SessionWrapper>
-    <html lang="en" className="scroll-smooth">
-      <body className={`${inconsolata.className} bg-second-color text-accent-color`}>
-      {/* <header className='bg-pure-black p-4'>
-        <Navbar />
-      </header> */}
-      {children}
+    <html lang="en" className="scroll-thin">
+      <body className={`${inconsolata.className} bg-second-color text-accent-color flex flex-row flex-wrap`}>
+          {children}
       </body>
     </html>
     </SessionWrapper>

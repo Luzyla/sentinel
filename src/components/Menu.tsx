@@ -45,7 +45,7 @@ const menuItems = [
       ],
     },
     {
-      title: "OTHER",
+      title: "CONFIG",
       items: [
         {
           icon: <FaCircleUser />,
@@ -59,19 +59,13 @@ const menuItems = [
           href: "/settings",
           visible: ["admin", "supervisor", "user"],
         },
-        {
-          icon: <FaSignOutAlt />,
-          label: "Logout",
-          href: "/logout",
-          visible: ["admin", "supervisor", "user"],
-        },
       ],
     },
   ];
 
 const Menu = () => {
     return (
-        <div className="h-full w-full">
+        <div className="w-full">
             {menuItems.map(i => (
                 <div className="m-1 flex flex-col gap-4 justify-center xl:items-start lg:items-start md:items-center sm:items-center" key={i.title}>
                     <span className="mt-4 font-bold justify-start">{i.title}</span>
