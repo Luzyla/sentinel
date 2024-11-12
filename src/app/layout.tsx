@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import SessionWrapper from "../components/SessionWrapper";
+import SessionWrapper from "@/components/SessionWrapper";
+import UserProvider from "@/providers/UserProvider";
 import { Inconsolata } from "next/font/google";
 import "./globals.css";
 const inconsolata = Inconsolata({ subsets: ["latin"] });
@@ -16,11 +17,15 @@ export default function RootLayout({
 }>) {
   return (
     <SessionWrapper>
-    <html lang="en" className="scroll-thin">
-      <body className={`${inconsolata.className} bg-second-color text-accent-color flex flex-row flex-wrap`}>
+      {/* <UserProvider> */}
+      <html lang="en" className="scroll-thin">
+        <body
+          className={`${inconsolata.className} bg-second-color text-accent-color flex flex-row flex-wrap`}
+        >
           {children}
-      </body>
-    </html>
+        </body>
+      </html>
+      {/* </UserProvider> */}
     </SessionWrapper>
   );
 }
