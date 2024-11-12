@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import type { Config } from "tailwindcss";
 
 const config: Config = {
