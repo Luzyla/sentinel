@@ -1,6 +1,6 @@
 import EventCalendar from '@/components/EventCalendar';
 import Announcements from '@/components/Announcements';
-import ScheduleCalendar from '@/components/ScheduleCalendar';
+/* import ScheduleCalendar from '@/components/ScheduleCalendar'; */
 
 const UserPage = () => {
 	return (
