@@ -9,7 +9,7 @@ const UserPage = () => {
 			<div className="w-full xl:w-2/3 flex flex-col bg-[#fafafa44] rounded-xl p-4">
 				<h3 className="text-xl font-semibold">Schedule</h3>
 				{/* bigcalendar */}
-				<ScheduleCalendar />
+				{/* <ScheduleCalendar /> */}
 				{/* <div className="h-full p-4 bg- rounded-xl flex gap-4 justify-between flex-wrap">
           
         </div> */}
