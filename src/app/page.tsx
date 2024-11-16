@@ -11,7 +11,8 @@ import LogOutButton from '@/components/LogOutButton';
 
 export default function Home() {
 	const { data: session } = useSession();
-	/* 	let userRole = role */ return (
+	/* 	let userRole = role */
+	return (
 		<>
 			<header className="p-6 text-3xl bg-first-color w-screen">
 				<Logo />
