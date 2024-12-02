@@ -1,7 +1,5 @@
 const SupervisorPage = () => {
-    return (
-        <div className="">Teacher Page</div>
-    )
-}
+	return <div className="">Supervisor Page</div>;
+};
 
-export default SupervisorPage
+export default SupervisorPage;
