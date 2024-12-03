@@ -1,37 +1,37 @@
 {
-  "name": "tt-a-safe-14-ts",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@types/react-big-calendar": "^1.15.0",
-    "moment": "^2.30.1",
-    "next": "14.1.4",
-    "next-auth": "^4.24.7",
-    "react": "^18",
-    "react-big-calendar": "^1.15.0",
-    "react-calendar": "^5.1.0",
-    "react-dom": "^18",
-    "react-icons": "^5.3.0",
-    "recharts": "^2.13.3"
-  },
-  "devDependencies": {
-    "@types/node": "20.17.6",
-    "@types/react": "18.3.12",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10.0.1",
-    "eslint": "^8.57.1",
-    "eslint-config-next": "14.1.4",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.2.1",
-    "postcss": "^8",
-    "prettier": "^3.3.3",
-    "tailwindcss": "^3.3.0",
-    "typescript": "5.6.3"
-  }
+	"name": "tt-a-safe-14-ts",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"@types/react-big-calendar": "^1.15.0",
+		"eslint-config-prettier": "^9.1.0",
+		"eslint-plugin-prettier": "^5.2.1",
+		"moment": "^2.30.1",
+		"next": "14.1.4",
+		"next-auth": "^4.24.7",
+		"react": "^18",
+		"react-big-calendar": "^1.15.0",
+		"react-calendar": "^5.1.0",
+		"react-dom": "^18",
+		"react-icons": "^5.3.0",
+		"recharts": "^2.13.3"
+	},
+	"devDependencies": {
+		"@types/node": "20.17.6",
+		"@types/react": "18.3.12",
+		"@types/react-dom": "^18",
+		"autoprefixer": "^10.0.1",
+		"eslint": "^8.57.1",
+		"eslint-config-next": "14.1.4",
+		"postcss": "^8",
+		"prettier": "^3.3.3",
+		"tailwindcss": "^3.3.0",
+		"typescript": "5.6.3"
+	}
 }
