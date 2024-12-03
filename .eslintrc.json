@@ -1,10 +1,4 @@
 {
-  "extends": ["next/core-web-vitals", "plugin:prettier/recommended"],
-  "plugins": [
-    "react",
-    "jsx-a11y",
-    "import",
-    "react-hooks",
-    "plugin:prettier/recommended"
-  ]
+	"extends": ["next/core-web-vitals", "plugin:prettier"],
+	"plugins": ["react", "jsx-a11y", "import", "react-hooks", "plugin:prettier"]
 }
